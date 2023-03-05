@@ -63,7 +63,7 @@ PyMySQL==1.0.2
 pyperclip==1.8.2
 pypushdeer==0.0.3
 pyquery==1.4.3
-pyrsistent==0.18.1
+pyrsistent==0.19.3
 PySocks==1.7.1
 python-dateutil==2.8.2
 python-dotenv==0.20.0
